@@ -1,38 +1,24 @@
-## Welcome to GitHub Pages
+## Internet of Dolls
 
-You can use the [editor on GitHub](https://github.com/haru2036/mitsumerare-tai/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+最近はInternet of Things、更にはInternet of Everythingという言葉が使われていますが、私達はドール好きとしてその周辺技術を用い更にドールとの生活を楽しくできる方法を考えてきました。
+異論はあると思いますが、「無口だけどいろんな時を一緒に過ごす楽しい相棒」のような感じの存在です。
+そんな一緒に過ごしている時を、更に広げようとしたのが今回の作品です。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 概要
+携帯電話に届いた通知を光で教えてくれる通知リングは、通知元のサービスが持っている色で光ります。Twitterなら水色、SoundCloudならオレンジといったふうです。
+大雑把な通知元がわかるものの細かな内容はわからないという特徴は、急ぎの通知はぱっと見でわかり、そうでもない通知は見てからおいておいてドールとの時間を過ごすことにすぐに戻ることができるということにもつながっています。  
 
-### Markdown
+あなたのことを見つけて、あなたのことをじっと見つめ返してくれる。これはドームの深い形状のドールアイによって実現されていたことですが、今回はそれをさらに推し進めてみます。それは、カメラ搭載のドールアイです。
+カメラを用いてあなたのことを見つけ、みつめてくれます。  
+これらの機能によって、よりたのしいドールとの時間を送れるようになると私達は信じています。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 最新情報
+* 2017/05/02 このWebページを公開しました。
 
-```markdown
-Syntax highlighted code block
+## 写真
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/75151585@N07/27324921900/in/dateposted-public/" title="スカートを光らせたい"><img src="https://c1.staticflickr.com/8/7377/27324921900_197e5ca3b6_c.jpg" width="532" height="800" alt="スカートを光らせたい"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/75151585@N07/34001913940/in/dateposted-public/" title="通知スカート用マウンタ"><img src="https://c1.staticflickr.com/5/4168/34001913940_768917a012_c.jpg" width="800" height="532" alt="通知スカート用マウンタ"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/75151585@N07/33576562933/in/dateposted-public/" title="通知スカート用マウンタ"><img src="https://c1.staticflickr.com/3/2862/33576562933_812581d4cb_c.jpg" width="800" height="532" alt="通知スカート用マウンタ"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3UJNPfSG24?ecver=1" frameborder="0" allowfullscreen></iframe>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- - List
--
-- 1. Numbered
-- 2. List
--
-- **Bold** and _Italic_ and `Code` text
--
-- [Link](url) and ![Image](src)
-- ```
--
-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
--
-- ### Jekyll Themes
--
-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haru2036/mitsumerare-tai/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
--
-- ### Support or Contact
--
-- Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
--
